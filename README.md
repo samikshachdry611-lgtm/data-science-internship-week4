@@ -1,4 +1,4 @@
-# Data Science & Analytics Internship - Capstone Project Report
+# Data Science & Analytics Internship -  Project Report
 
 ## Key Findings & EDA Insights
 * **Top Countries:** Germany, France, and the United States lead in total gross sales and profit contributions.
